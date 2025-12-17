@@ -43,7 +43,31 @@ This project uses predictive analytics and machine learning to assess health ris
 - Random Forest Classifier achieved 96.5% accuracy and F1-score of 0.96
 
 ## 📁 Project Structure
-Refer to the folder structure in this repository.
+Lifestyle-Health-Risk-Prediction/
+│
+├── data/
+│   ├── raw_data.xlsx
+│   ├── processed_data.csv
+│
+├── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_regression_models.ipynb
+│   ├── 03_classification_models.ipynb
+│   ├── 04_clustering_pca.ipynb
+│   ├── 05_model_comparison.ipynb
+│
+├── visuals/
+│   ├── correlation_heatmap.png
+│   ├── model_comparison.png
+│   ├── pca_clusters.png
+│
+├── report/
+│   ├── Project_Report.pdf
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 ## 🚀 Future Scope
 - Wearable device integration
