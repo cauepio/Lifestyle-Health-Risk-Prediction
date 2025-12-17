@@ -1,0 +1,2 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score,Runtime
+Logistic Regression,0.9767,0.9778,0.9767,0.9747,0.0121

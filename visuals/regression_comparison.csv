@@ -1,0 +1,9 @@
+Algorithm,MAE,RMSE,R2,Runtime
+Linear Regression,0.0,0.0,1.0,0.0127
+Random Forest (n_estimators=100),1.3547,1.8246,0.969,0.1399
+Random Forest (n_estimators=200),1.4136,1.8991,0.9664,0.2524
+Random Forest (n_estimators=300),1.4298,1.9059,0.9662,0.488
+Random Forest (n_estimators=50),1.4651,1.9571,0.9644,0.1725
+Polynomial Regression (Degree=3),5.3291,6.4609,0.6116,0.8479
+Polynomial Regression (Degree=2),7.6125,9.8141,0.1039,0.0658
+Polynomial Regression (Degree=4),8.0971,9.8813,0.0916,22.6658

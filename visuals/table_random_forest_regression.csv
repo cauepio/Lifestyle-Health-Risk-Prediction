@@ -1,0 +1,5 @@
+Algorithm,MAE,RMSE,R2,Runtime
+Random Forest (n_estimators=50),1.4651,1.9571,0.9644,0.1725
+Random Forest (n_estimators=100),1.3547,1.8246,0.969,0.1399
+Random Forest (n_estimators=200),1.4136,1.8991,0.9664,0.2524
+Random Forest (n_estimators=300),1.4298,1.9059,0.9662,0.488

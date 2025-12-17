@@ -1,0 +1,4 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score,Runtime
+SVM (Linear),1.0,1.0,1.0,1.0,0.0051
+SVM (RBF),0.9302,0.866,0.9302,0.8968,0.0036
+

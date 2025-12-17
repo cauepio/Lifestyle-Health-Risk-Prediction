@@ -1,0 +1,4 @@
+Algorithm,MAE,RMSE,R2,Runtime
+Polynomial Regression (Degree=2),7.6125,9.8141,0.1039,0.0658
+Polynomial Regression (Degree=3),5.3291,6.4609,0.6116,0.8479
+Polynomial Regression (Degree=4),8.0971,9.8813,0.0916,22.6658

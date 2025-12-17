@@ -1,0 +1,5 @@
+AutoML Analysis Summary
+=======================
+
+Best Regression: Linear Regression (MAE: 0.0)
+Best Classification: SVM (Linear) (F1: 1.0)

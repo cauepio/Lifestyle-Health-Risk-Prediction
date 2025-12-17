@@ -1,0 +1,2 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score,Runtime
+Decision Tree (Depth=5),1.0,1.0,1.0,1.0,0.0045
